@@ -69,9 +69,20 @@ body {
 }
 
 /******************************** INICIO **********************************/
-
-
-
+.bienvenido {
+	font-family: 'Sigmar', cursive;
+	font-size: 1.2em;
+	padding: 2em 3em 2em 3em;
+	margin: 2em 8em 2em 8em;
+	text-align: center;
+	background-color: rgb(255, 255, 255);
+	border-radius: 25px;
+	box-shadow: 2px 2px 2px rgba(34, 34, 34);
+}
+.tituloBienvenida {
+	color: rgb(104, 55, 218);
+	font-family: 'Bebas Neue', sans-serif;
+}
 
 /******************************** TIENDA **********************************/
 .grupoTarjetas {
