@@ -69,6 +69,7 @@ body {
 }
 
 /******************************** INICIO **********************************/
+
 .bienvenido {
 	font-family: 'Sigmar', cursive;
 	font-size: 1.2em;
@@ -83,6 +84,7 @@ body {
 	color: rgb(104, 55, 218);
 	font-family: 'Bebas Neue', sans-serif;
 }
+
 
 /******************************** TIENDA **********************************/
 .grupoTarjetas {
@@ -125,8 +127,9 @@ body {
 }
 
 .precio {
+	color: rgb(0, 163, 0);
 	width: 100%;
-	text-align: right;
+	text-align: center;
 	margin: .5em 0 0 0;
 	font-size: 2em;
 }
